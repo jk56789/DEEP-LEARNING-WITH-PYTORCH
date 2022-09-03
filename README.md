@@ -1,4 +1,4 @@
-# DEEPLEARNING With PYTORCH
+# DEEP LEARNING With PYTORCH
 
 - ch1. ML/DL
 - ch2. Configuration Settings and Pytorch
